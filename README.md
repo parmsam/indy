@@ -1,4 +1,4 @@
-# indy dataset resources
+# indy data resources
 
 * Open Indy Data Portal: http://data.indy.gov/
 * MPH Indiana Data Hub: https://hub.mph.in.gov/
