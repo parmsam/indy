@@ -5,3 +5,7 @@
 * STATS Indiana: https://www.stats.indiana.edu/
 * Indiana Dept of Corrections Statistical Data: https://www.in.gov/idoc/2376.htm
 * List of Statistics and Datasets by Topic for Indiana: https://www.in.gov/library/2409.htm
+* Indiana Indicators: http://www.indianaindicators.org/
+* Indy Indicators: http://indyindicators.iupui.edu/
+* Census profile: https://www.census.gov/quickfacts/fact/table/indianapoliscitybalanceindiana/INC110218
+
